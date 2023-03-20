@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331819975293",
+    "project_id": "lifeguardreport",
+    "storage_bucket": "lifeguardreport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331819975293:android:1bee51d8660b7582802714",
+        "android_client_info": {
+          "package_name": "com.vik.flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331819975293-tmatiejmkjn6qof1l43qcdcq7c5d4is0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBfsO-H0MqS47t1Em9s6vXrONpjwD4gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331819975293-tmatiejmkjn6qof1l43qcdcq7c5d4is0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
