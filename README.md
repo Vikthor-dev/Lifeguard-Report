@@ -1,16 +1,1 @@
-# flutter_project
-
-Lifeguard Report Project
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a mobile application made in Flutter framework with Dart programmimg language. After the lifeguards had a rescue operation they had to make a written report , this application makes this process faster and easier as it is now digitized. In this app every lifeguard has it's own personal account where he can review his rescue operations in chronological order. All the data is stored in a Google's Firebase.
