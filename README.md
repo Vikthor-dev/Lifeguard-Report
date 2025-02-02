@@ -1,6 +1,6 @@
 # Lifeguard Report App
 
-The Lifeguard Rescue Report App is a mobile application developed using the Flutter framework and the Dart programming language. Designed to streamline the process of writing rescue operation reports, this app helps lifeguards quickly and efficiently document their rescue activities. Instead of traditional written reports, the app digitizes and simplifies this process, saving time and ensuring data accuracy.
+The Lifeguard Report App is a mobile application developed using the Flutter framework and the Dart programming language. Designed to streamline the process of writing rescue operation reports, this app helps lifeguards quickly and efficiently document their rescue activities. Instead of traditional written reports, the app digitizes and simplifies this process, saving time and ensuring data accuracy.
 
 # Features
 Personal Accounts: Each lifeguard has a unique account where they can view and manage their rescue operations.
